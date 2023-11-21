@@ -6,5 +6,5 @@ form.addEventListener('submit', function (e) {
     thankYouPopup.style.display = 'block';
     setTimeout(() => {
         thankYouPopup.style.display = 'none';
-    }, 3000);
+    }, 2000);
 });
